@@ -6,3 +6,6 @@ To install
 5 Launch Minecraft
 
 If any issues arise contact me on reddit at u/cdtommy
+
+
+Images of crafting recipes can be found here https://imgur.com/a/C8O8d
